@@ -1,0 +1,53 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand{
+    font-family: 'Comfortaa', cursive;
+}
+
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        // path {
+        //     fill: $grey-color;
+        // }
+    }
+}
+
+footer{
+	text-align: right;
+}
+
+$spacing-unit:     30px;
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+.post-content{
+	img{
+		width: 100%;
+	}
+}
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+    "syntax-highlighting"
+;

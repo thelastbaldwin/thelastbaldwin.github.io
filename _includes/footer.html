@@ -1,0 +1,28 @@
+<footer>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-8 col-md-4">
+        <h3>{{ site.title }}</h3>
+        <ul class="list-unstyled">
+          <li>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

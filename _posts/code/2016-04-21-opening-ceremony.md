@@ -2,7 +2,7 @@
 layout: post
 title:  "Opening Ceremony Pop-In Video Booth"
 date:   2016-04-21 14:40:49 -0700
-category: creative_code
+category: code
 ---
 
 ![store shot][image1]

@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "1/35 MechatroWeGo"
+title:  "1/35 Mechatro WeGo"
 date:   2016-04-25 11:24:49 
 category: plamo
 ---
 
-weGo wegowego
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/inJbU"><a href="//imgur.com/a/inJbU">1/35 Mechatro WeGo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+![1/35 mechatro wego](http://i.imgur.com/9foBuN6h.jpg)
+
+![1/35 mechatro wego](http://i.imgur.com/32lfeyUh.jpg)
+
+![1/35 mechatro wego](http://i.imgur.com/ZGOmTONh.jpg)
+
+[Full album on imgur](http://imgur.com/a/inJbU)

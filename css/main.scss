@@ -3,6 +3,8 @@
 ---
 @charset "utf-8";
 
+@import  "bootstrap-sass/assets/stylesheets/bootstrap";
+
 html, body{
     height: 100%;
 }
@@ -95,8 +97,4 @@ a{
     }
 }
 
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-    "syntax-highlighting"
-;
+@import   "syntax-highlighting"

@@ -23,3 +23,6 @@ markdown: rdiscount
 # transforms ascii characters into html entities
 rdiscount:
   extensions: [smart]
+
+sass:
+  style: compressed

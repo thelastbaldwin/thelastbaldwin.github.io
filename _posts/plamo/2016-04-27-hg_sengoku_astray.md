@@ -17,7 +17,7 @@ on the auxilliary arms gave me a chance to practice with chrome paints and do a 
 
 Next, the inset green areas
 were a fun challenge to paint. I painted the green before the red and white and carefully masked off
-the recess with sticky tack. If you look carefully you can see a little overspray on the right knee. 
+the recess with sticky tack. If you look carefully you can see a little overspray on the left knee. 
 Since this was an impulse buy, I rushed this dude and finished in 4 days. 
 
 ![hg sengoku astray](http://i.imgur.com/LRBGIuMh.jpg)

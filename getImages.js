@@ -16,8 +16,10 @@ https.get({
 function(response){
 	response.on('data', function(data){
 		var images = JSON.parse(data).data;
+		var extension;
 		images.forEach(function(image){
-			console.log(image.link.substr(0, image.link.indexOf('.jpg')) + 'h' + '.jpg');
+			extension = image.link.substr(image.link.lastIndexOf('.'));
+			console.log(image.link.substr(0, image.link.lastIndexOf('.')) + 'h' + extension);
 		})
 	})
 }).on('error', function(e){

@@ -19,3 +19,7 @@ formatted_title="$(echo $localVar | sed -r 's/([A-Z])/\L\1/g;s/ /_/g')"
 if [ ! -d _posts/$category ]; then
   mkdir  _posts/$category 
 fi
+
+
+#write the file with the proper template
+echo "---\ntitle: $title\ndate: $post_date\ncategory: $category\n---" >> _posts/$category/$formatted_title.md

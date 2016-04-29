@@ -12,5 +12,5 @@ When users would move their hands around, ripples would appear in the display si
 pool. This project was created using OpenFrameworks. 
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe src="https://www.youtube.com/embed/9vgA2K2ANSg" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9vgA2K2ANSg" allowfullscreen></iframe>
 </div>

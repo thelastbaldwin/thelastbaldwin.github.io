@@ -1,3 +1,6 @@
 [submodule "_sass/bootstrap-sass"]
 	path = _sass/bootstrap-sass
 	url = https://github.com/twbs/bootstrap-sass
+[submodule "js/three.js"]
+	path = js/three.js
+	url = https://github.com/mrdoob/three.js

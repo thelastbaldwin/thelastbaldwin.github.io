@@ -16,7 +16,7 @@ url: "localhost:4000/" # the base hostname & protocol for your site
 twitter_username: thelastbaldwin 
 github_username:  thelastbaldwin
 # number of posts to list in the blog roll
-paginate: 5
+paginate: 10
 
 markdown: kramdown
 

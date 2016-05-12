@@ -4,3 +4,9 @@
 [submodule "js/three.js"]
 	path = js/three.js
 	url = https://github.com/mrdoob/three.js
+[submodule "js/dat.gui"]
+	path = js/dat.gui
+	url = https://github.com/dataarts/dat.gui.git
+[submodule "js/stats.js"]
+	path = js/stats.js
+	url = https://github.com/mrdoob/stats.js.git

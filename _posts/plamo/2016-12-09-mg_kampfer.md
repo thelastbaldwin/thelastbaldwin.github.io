@@ -14,5 +14,7 @@ which basically melted them beyond repair. Suddenly, I had to buy a whole other 
 replacement kit, I was much more careful and the results speak for themselves. 
 
 ![mg kampfer](http://i.imgur.com/1N5deREh.jpg)
+
 ![mg kampfer](http://i.imgur.com/W6SnRAEh.jpg)
+
 ![mg kampfer](http://i.imgur.com/mCC88mnh.jpg)

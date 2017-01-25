@@ -4,12 +4,12 @@ title: "threejs test"
 date: 2016-05-11 14:29:27 -0700
 category: code
 deps:
-  - "/js/three.js/build/three.min.js"
+  - "https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.min.js"
 ---
 
 <div id="WebGL-output"></div>
 {% for dep in page.deps %}
-<script src="{{dep | prepend: site.baseurl}}"></script>
+<script src="{{dep}}"></script>
 {% endfor %}
 <script id="vertex-shader" type="x-shader/x-vertex">
 	attribute vec4 vPosition;
@@ -60,8 +60,6 @@ deps:
         N64.material.materials[i].side = THREE.BackSide;
        }
        N64.material.needsUpdate = true;
-       debugger;
-
        scene.add(N64);
      });
 
